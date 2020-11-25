@@ -2,7 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/11/25/hello-world/</loc>
+    <loc>https://asteroidcs.github.io/link/index.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/undefined/3eeb.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/links/index.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/about/index.html</loc>
     
     <lastmod>2020-11-25</lastmod>
     
@@ -10,7 +45,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://asteroidcs.github.io/</loc>
     <lastmod>2020-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
