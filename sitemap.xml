@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://asteroidcs.github.io/undefined/0.html</loc>
+    
+    <lastmod>2020-12-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/undefined/43fa.html</loc>
+    
+    <lastmod>2020-12-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://asteroidcs.github.io/undefined/2136.html</loc>
     
     <lastmod>2020-12-10</lastmod>
@@ -122,6 +136,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://asteroidcs.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2020-12-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -133,6 +154,13 @@
   
   <url>
     <loc>https://asteroidcs.github.io/categories/Java/Java%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2020-12-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://asteroidcs.github.io/categories/Java/game/</loc>
     <lastmod>2020-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
